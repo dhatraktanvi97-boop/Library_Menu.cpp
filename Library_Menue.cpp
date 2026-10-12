@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int book[100];
+    int book[10];
     int count = 0;
     int choice;
     int id;
